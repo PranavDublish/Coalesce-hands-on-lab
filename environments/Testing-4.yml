@@ -5,10 +5,10 @@ mappingDefinitions:
     database: SNOWFLAKE_SAMPLE_DATA
     schema: TPCH_SF1
   TARGET:
-    database: COALESCE_DEMO_DB
+    database: COALESCE
     schema: WORKTEST
   WORK:
-    database: COALESCE
+    database: COALESCE_DEMO_DB
     schema: WORKTEST
 name: Testing
 type: Environment
