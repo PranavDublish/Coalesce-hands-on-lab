@@ -6,9 +6,9 @@ mappingDefinitions:
     schema: TPCH_SF1
   TARGET:
     database: COALESCE_DEMO_DB
-    schema: ""
+    schema: WORKTEST
   WORK:
-    database: COALESCE_DEMO_DB
+    database: COALESCE
     schema: WORKTEST
 name: Testing
 type: Environment
