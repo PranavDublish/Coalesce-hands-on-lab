@@ -1,14 +1,11 @@
 fileVersion: 1
-id: "4"
+id: "6"
 mappingDefinitions:
   SRC:
     database: SNOWFLAKE_SAMPLE_DATA
     schema: TPCH_SF1
-  TARGET:
-    database: COALESCE_DEMO_DB
-    schema: ""
   WORK:
     database: COALESCE_DEMO_DB
     schema: WORKDEV
-name: New Environment
+name: Development
 type: Environment
