@@ -1,0 +1,8 @@
+fileVersion: 1
+id: aa3334c8-dbf2-42c6-81a5-3c5cfbe1e4fc
+name: miniDAG
+steps:
+  - 7e95b529-808c-4eed-834a-6fba879d46eb
+  - 8b85be29-c17c-4a4f-ac9d-ad62fa80b99d
+  - d1e5a5ef-a1e3-461e-9de9-b4b102a64d1c
+type: Subgraph
